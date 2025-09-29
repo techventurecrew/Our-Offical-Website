@@ -33,7 +33,7 @@
     font-size: 3.5rem;
     font-weight: 700;
     margin-bottom: 1.2rem;
-    background: linear-gradient(135deg, #fff 0%, #22c55e 50%, #3b82f6 100%);
+    background: linear-gradient(135deg, #fff 0%, #8ae4ff 50%, #36adc2 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -217,7 +217,7 @@
 }
 
 .dot.active {
-    background: #22c55e;
+    background: #2297c5;
     transform: scale(1.2);
 }
 
