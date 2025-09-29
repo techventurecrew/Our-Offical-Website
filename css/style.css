@@ -574,7 +574,7 @@ canvas {
 .project-title {
   font-size: 1.4rem;
   font-weight: bold;
-  color: #333;
+  color:beige;
   margin-bottom: 10px;
 }
 
@@ -696,7 +696,7 @@ footer .container {
   align-items: center;
   gap: 2rem;
 }
-}
+
 
 footer .logo-section {
   text-align: center;
@@ -1647,7 +1647,7 @@ footer .copyright {
   font-weight: bold;
   line-height: 1.3;
   /* margin-bottom: 2rem; */
-  /* margin-top: 13rem; */
+  /* margin-top: 10rem; */
 }
 
 /* Services Section */
@@ -1994,6 +1994,15 @@ footer .copyright {
 
 .feature-card:nth-child(7) .feature-icon {
   background: linear-gradient(45deg, #2ecc71, #58d68d);
+  box-shadow: 0 10px 30px rgba(46, 204, 113, 0.4);
+}
+
+.feature-card:nth-child(8) .feature-icon {
+  background: linear-gradient(45deg, #cc2ec4, #d658cb);
+  box-shadow: 0 10px 30px rgba(46, 204, 113, 0.4);
+}
+.feature-card:nth-child(9) .feature-icon {
+  background: linear-gradient(45deg, #afcc2e, #a9f353);
   box-shadow: 0 10px 30px rgba(46, 204, 113, 0.4);
 }
 
